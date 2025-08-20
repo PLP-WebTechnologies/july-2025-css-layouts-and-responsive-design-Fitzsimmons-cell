@@ -33,6 +33,7 @@ span{
     color: white;
     padding: 10px;
     text-align: center;
+    z-index: 1000; 
 }
 /* Sticky Section Titles*/
 h2{
@@ -41,6 +42,7 @@ h2{
     background-color: darkred;
     padding: 10px;
     margin: 0;
+    z-index: 500; 
 }
 section {
     height: 500px;
@@ -49,6 +51,7 @@ section {
 }
 .one{
     background-color: aqua;
+    padding-top: 37px;
 }
 .two{
     background-color: lightcoral;
